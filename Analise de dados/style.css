@@ -1,0 +1,17 @@
+#h1 {
+    /* Define a cor de fundo para todo o corpo do documento */
+    background-color: #31363F;
+    /* Define a cor do texto para todos os elementos h1 */
+    color: #EEEEEE;
+    /* Define o alinhamento do texto para todos os elementos h1 */
+    text-align: center;
+}
+
+#h2 {
+    /* Define a cor de fundo para todo o corpo do documento */
+    background-color: #31363F;
+    /* Define a cor do texto para todos os elementos h1 */
+    color: #EEEEEE;
+    /* Define o alinhamento do texto para todos os elementos h1 */
+    text-align: center;
+}
